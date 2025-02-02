@@ -9,7 +9,6 @@ space_string:		.asciiz " "
 total_cnt:	.word 1 # the total number of 30 milliseconds
 
 bullet_number:	.word 0 # the number of 30 milliseconds, every 10 * 30 milliseconds, generate a bullet
-#����������10��������1�ӵ�
 
 small_enemy_number:	.word 0 # the number of small enemies, 2 small enemies, one medium boss
 
